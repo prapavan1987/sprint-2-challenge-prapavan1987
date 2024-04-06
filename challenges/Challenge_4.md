@@ -17,6 +17,8 @@ function scrub(text, forbidden)
 2. Ensure no punctuation is used in the text.
 3. If `text` is empty or there are no forbidden words, return the original text.
 
+
+
 ### Examples
 
 #### Example 1
